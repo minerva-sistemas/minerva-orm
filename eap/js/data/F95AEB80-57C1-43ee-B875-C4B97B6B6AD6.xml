@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.2:1", "", "Instanciamento", "EARoot/EA1/EA2/EA2/EA29.html", "180.png", "7", "0", "", "Use Case diagram0","{E8A27565-30E8-44fa-8732-A599F7FE1F40}");
+tocTab[tocTab.length] = new Array("0.1.2.2:2", "", "Instanciar por array de comparação", "EARoot/EA1/EA2/EA2/EA32.html", "7.png", "E15", "0", "", "UseCase0","{DE159F02-C4A6-423b-B0CA-60C6165BDE56}");
+tocTab[tocTab.length] = new Array("0.1.2.2:3", "", "Instanciar por callback", "EARoot/EA1/EA2/EA2/EA33.html", "7.png", "E18", "0", "", "UseCase0","{090932D0-2B0E-4072-B135-8474E0FA216D}");
+tocTab[tocTab.length] = new Array("0.1.2.2:4", "", "Instanciar por chave primária", "EARoot/EA1/EA2/EA2/EA34.html", "7.png", "E11", "0", "", "UseCase0","{136368AE-91D1-4b37-B907-6DD9341674EB}");
+tocTab[tocTab.length] = new Array("0.1.2.2:5", "", "Instanciar por Where", "EARoot/EA1/EA2/EA2/EA35.html", "7.png", "E16", "0", "", "UseCase0","{1A099BF4-702A-4901-8CD3-77A5AC95A903}");
+tocTab[tocTab.length] = new Array("0.1.2.2:6", "", "Instanciar por where Json", "EARoot/EA1/EA2/EA2/EA36.html", "7.png", "E17", "0", "", "UseCase0","{1B90F145-6F74-4fdd-9647-ACDFB0AA6A04}");

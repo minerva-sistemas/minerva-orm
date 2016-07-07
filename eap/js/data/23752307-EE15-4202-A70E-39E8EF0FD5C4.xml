@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.5:1", "", "Validações", "EARoot/EA1/EA2/EA5/EA54.html", "180.png", "10", "0", "", "Use Case diagram0","{1595CEA3-5F28-4eef-9B22-81F548C0A7AB}");
+tocTab[tocTab.length] = new Array("0.1.2.5:2", "", "Criar estratégia de validação para objetos", "EARoot/EA1/EA2/EA5/EA57.html", "7.png", "E37", "0", "", "UseCase0","{025E11D1-B989-4768-912F-225752BABBBE}");
+tocTab[tocTab.length] = new Array("0.1.2.5:3", "", "Definir estratégias de validação para objetos", "EARoot/EA1/EA2/EA5/EA58.html", "7.png", "E35", "0", "", "UseCase0","{153A522C-5F41-4489-A5B1-19B02B8C4BF1}");
+tocTab[tocTab.length] = new Array("0.1.2.5:4", "", "Implementar estratégias de validação para campos", "EARoot/EA1/EA2/EA5/EA59.html", "7.png", "E36", "0", "", "UseCase0","{C6BAFB09-3144-498c-9CF8-922A1C922781}");

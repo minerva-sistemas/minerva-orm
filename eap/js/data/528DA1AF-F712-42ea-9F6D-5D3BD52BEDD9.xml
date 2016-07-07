@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.2.1", "1", "Configurações", "EARoot/EA1/EA2/EA1/EA12.html", "4.png", "", "", "{AD658754-32EF-4128-BAE0-1D0090EACE2B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.2", "1", "Instanciamento", "EARoot/EA1/EA2/EA2/EA31.html", "4.png", "", "", "{F95AEB80-57C1-43ee-B875-C4B97B6B6AD6}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3", "1", "Operações", "EARoot/EA1/EA2/EA3/EA39.html", "4.png", "", "", "{F6F449F7-C873-435c-9856-21554DDF42A0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4", "1", "Portabilidade", "EARoot/EA1/EA2/EA4/EA50.html", "4.png", "", "", "{7857078E-D276-4a78-B34E-893CB7BDF2EF}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5", "1", "Validações", "EARoot/EA1/EA2/EA5/EA56.html", "4.png", "", "", "{23752307-EE15-4202-A70E-39E8EF0FD5C4}", "Package");

@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.1.2.3:1", "", "Operações", "EARoot/EA1/EA2/EA3/EA37.html", "180.png", "8", "0", "", "Use Case diagram0","{48D7BB90-041A-490a-91E9-1F3704C51D29}");
+tocTab[tocTab.length] = new Array("0.1.2.3:2", "", "Aplicar merge com array", "EARoot/EA1/EA2/EA3/EA40.html", "7.png", "E24", "0", "", "UseCase0","{4061B620-B26D-4fc2-BE95-A971C4977D25}");
+tocTab[tocTab.length] = new Array("0.1.2.3:3", "", "Aplicar populate com array", "EARoot/EA1/EA2/EA3/EA41.html", "7.png", "E25", "0", "", "UseCase0","{41FAE780-3F97-4488-82E6-09A7D659969D}");
+tocTab[tocTab.length] = new Array("0.1.2.3:4", "", "Atualizar informações do objeto", "EARoot/EA1/EA2/EA3/EA42.html", "7.png", "E26", "0", "", "UseCase0","{EDADB890-D7B2-44be-8B7F-BEC850291D26}");
+tocTab[tocTab.length] = new Array("0.1.2.3:5", "", "Atualizar múltiplos objetos com uma query", "EARoot/EA1/EA2/EA3/EA43.html", "7.png", "E27", "0", "", "UseCase0","{7B7D73CE-53A1-472b-8C52-743AD2777AD6}");
+tocTab[tocTab.length] = new Array("0.1.2.3:6", "", "Excluir múltiplos objetos com uma query", "EARoot/EA1/EA2/EA3/EA44.html", "7.png", "E28", "0", "", "UseCase0","{BEB296BA-C67C-4ca2-915B-FC6867D0FCC4}");
+tocTab[tocTab.length] = new Array("0.1.2.3:7", "", "Executar delete", "EARoot/EA1/EA2/EA3/EA45.html", "7.png", "E23", "0", "", "UseCase0","{E5986BF5-5845-4191-92E4-4F8F04E80A62}");
+tocTab[tocTab.length] = new Array("0.1.2.3:8", "", "Executar insert", "EARoot/EA1/EA2/EA3/EA46.html", "7.png", "E21", "0", "", "UseCase0","{8FA39ADF-346D-4d83-90EC-8839B7248D07}");
+tocTab[tocTab.length] = new Array("0.1.2.3:9", "", "Executar updade", "EARoot/EA1/EA2/EA3/EA47.html", "7.png", "E22", "0", "", "UseCase0","{3D885529-0DE8-4f33-98A6-A617049CA6D5}");

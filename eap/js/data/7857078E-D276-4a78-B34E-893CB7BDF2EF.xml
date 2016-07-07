@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.4:1", "", "Portabilidade", "EARoot/EA1/EA2/EA4/EA48.html", "180.png", "9", "0", "", "Use Case diagram0","{0A7C3EF4-9340-4374-BB74-2CB1064329C7}");
+tocTab[tocTab.length] = new Array("0.1.2.4:2", "", "Adc. estratégia de encodificação de propriedade", "EARoot/EA1/EA2/EA4/EA51.html", "7.png", "E32", "0", "", "UseCase0","{D4945EA9-316E-4740-A8F2-EBDD63AC3C45}");
+tocTab[tocTab.length] = new Array("0.1.2.4:3", "", "Adc. estratégica de decodificação de propriedade", "EARoot/EA1/EA2/EA4/EA52.html", "7.png", "E30", "0", "", "UseCase0","{7A38A96F-14D6-4d62-919D-05FFB2286D24}");
+tocTab[tocTab.length] = new Array("0.1.2.4:4", "", "Trabalhar com mútiplas conexões", "EARoot/EA1/EA2/EA4/EA53.html", "7.png", "E33", "0", "", "UseCase0","{4570C6A7-7FB9-4b87-8D9F-F02A34179B85}");

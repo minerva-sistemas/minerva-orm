@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.2.1.2:1", "", "Propriedades", "EARoot/EA1/EA2/EA1/EA2/EA23.html", "180.png", "12", "0", "", "Use Case diagram0","{08F53A5F-A3B0-424b-88D4-82319F41681B}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:2", "", "Definir alias do campo", "EARoot/EA1/EA2/EA1/EA2/EA26.html", "7.png", "E47", "0", "", "UseCase0","{1C9431EE-C71F-4cc6-B578-284EB48DDB28}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:3", "", "Definir estatégia de codificação", "EARoot/EA1/EA2/EA1/EA2/EA27.html", "7.png", "E49", "0", "", "UseCase0","{91CFB42E-75E3-4075-8A01-3C51148296E4}");
+tocTab[tocTab.length] = new Array("0.1.2.1.2:4", "", "Definir estratégia de decodificação", "EARoot/EA1/EA2/EA1/EA2/EA28.html", "7.png", "E48", "0", "", "UseCase0","{EB2BE44B-67AF-4255-BEB7-71B219B9D471}");
